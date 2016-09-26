@@ -1,2 +1,2 @@
 # brandv.github.io
-An quick primer on stuttering.
+A quick primer on stuttering.
