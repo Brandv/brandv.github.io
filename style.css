@@ -86,8 +86,8 @@ sub {
 }
 
 #references {
-	position: absolute;
-	min-height: 100%;
+	position: fixed;
+	height: 100%;
 	width: 50%;
 	margin: 0em 17%;
 	
@@ -98,6 +98,11 @@ sub {
 @media screen and (max-width: 700px) {
 	body {
 		margin: 0em 4em;
+	}
+
+	h1 {
+		display: block;
+		font-size: 2em;
 	}
 }
 
