@@ -72,6 +72,10 @@ sub {
 	width: 400px;
 }
 
+li {
+	margin: 10px 0;
+}
+
 .spacing {
 	margin-top: 50px;
 	margin-bottom: -10px;
