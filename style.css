@@ -16,6 +16,7 @@ h1 {
 	font: small-caps 3em geneva;
 	position: relative;
 	margin-top: -40px;
+
 }
 
 strong {
@@ -89,11 +90,12 @@ sub {
 	position: fixed;
 	height: 100%;
 	width: 50%;
-	margin: 0em 17%;
-	
-	
-	
+	margin: 1em 17%;
 }
+
+
+	
+
 
 @media screen and (max-width: 700px) {
 	body {
